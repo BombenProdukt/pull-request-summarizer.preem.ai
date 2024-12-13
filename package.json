@@ -47,7 +47,7 @@
     "cmdk": "^0.1.21",
     "endent": "^2.1.0",
     "lucide-react": "0.105.0-alpha.4",
-    "next": "^13.1.6",
+    "next": "^15.1.0",
     "next-themes": "^0.2.1",
     "openai": "^3.2.1",
     "react": "^18.2.0",
